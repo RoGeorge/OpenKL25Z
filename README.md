@@ -8,7 +8,7 @@ ARM development board ($12.95).&nbsp;  It builds with the GCC ARM toolchain, wit
 Quick start on Ubuntu 20.04 LTS (in 2022):
 
 + Install the tools <br />
-`sudo apt install screen gcc-arm-none-eabi`
+`sudo apt install git screen gcc-arm-none-eabi`
 
 + Connect the cable to the USB port marked as SDA, then mount (or click on the) `FRDM-KL25Z` USB removable disk.
 
