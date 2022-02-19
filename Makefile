@@ -20,7 +20,8 @@ DEBUG_OPTS = 	\
 OPTS = 			\
 				-Os									\
 				--specs=nano.specs					\
-				-fplugin=tree_switch_shortcut_elf
+				
+# removed plugin, missing from the 2022 gcc arm install				-fplugin=tree_switch_shortcut_elf
 ###--enable-newlib-nano-malloc
 DEFS = 
 #-Os
