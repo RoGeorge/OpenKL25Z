@@ -1,7 +1,7 @@
 Introduction
 ============
 
-The goal of this project is make a single framework to learn about microcontroller Cortex-M0+.&nbsp;  The project is a fork of [OpenKL25Z](https://github.com/1nv1/OpenKL25Z) which was based on [bare-metal ARM](https://github.com/payne92/bare-metal-arm).&nbsp;  It is a bare-metal runtime for the 
+The goal of this project is to learn about microcontroller Cortex-M0+.&nbsp;  The project is a fork of [OpenKL25Z](https://github.com/1nv1/OpenKL25Z) which was based on [bare-metal ARM](https://github.com/payne92/bare-metal-arm).&nbsp;  It is a bare-metal runtime for the 
 [Freescale Freedom FRDM-KL25Z](http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=FRDM-KL25Z) 
 ARM development board ($12.95).&nbsp;  It builds with the GCC ARM toolchain, with no other external dependencies.
 
