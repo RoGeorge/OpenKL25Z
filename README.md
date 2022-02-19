@@ -28,4 +28,4 @@ will make the project and will program the devboard by copying the `.SREC` file 
 
 Status
 ------
-It compiles and run, but the menu is frozen.
+It compiles and run, menu text appears in 'screen', seems frozen.
